@@ -50,9 +50,7 @@ This Python project provides a basic implementation for encrypting and decryptin
 
 Adjust the settings in the `config.json` file, such as the encryption algorithm or key, to tailor the behavior of the encryption and decryption process.
 
-## Contributing
 
-Contributions are welcome! If you have ideas for improvement, open an issue or submit a pull request to enhance the functionality or security of the encryption and decryption process.
 
 ---
 
