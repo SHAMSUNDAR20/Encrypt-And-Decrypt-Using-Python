@@ -19,7 +19,7 @@ This Python project provides a basic implementation for encrypting and decryptin
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/encryption-decryption-python.git
+    git clone https://github.com/SHAMSUNDAR20/encryption-decryption-python.git
     ```
 
 2. Navigate to the project directory:
